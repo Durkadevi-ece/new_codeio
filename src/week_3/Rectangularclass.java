@@ -19,6 +19,7 @@ class Rectangle{
         int Perimeter = 2*(length+breath);
         System.out.println("Araea of the rectangle is:"+Area );
         System.out.println("Perimeter of the rectangle is:"+Perimeter);
+        System.out.println("new code");
     }
 
 }
