@@ -1,9 +1,7 @@
 package pattern;
-
-import java.util.Scanner;
 //number triangular pattern printing
 import java.util.Scanner;
-    public class noTriangular {
+  public class noTriangular {
         public static void main(String[] args){
             Scanner input = new Scanner(System.in);
             System.out.print("Enter row number:");
